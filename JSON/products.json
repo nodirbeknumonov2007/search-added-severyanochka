@@ -1,0 +1,3269 @@
+{
+  "milk-cheese-egg": {
+    "fillters": [
+      "Молоко",
+      "Сливки",
+      "Яйца",
+      "Сыр"
+    ],
+    "cardData": [
+      {
+        "catalog": "milk-cheese-egg",
+        "id": "001",
+        "name": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Culpa, aliquam!",
+        "price": "65.10",
+        "price_card": "64.34",
+        "img": [
+          "346818_6.png"
+        ],
+        "rating": 1.5,
+        "discount": "23",
+        "feedback": "",
+        "article": "43345",
+        "characteristic": [
+          [
+            "Бренд",
+            "ПРОСТОКВАШИНО"
+          ],
+          [
+            "Производитель",
+            "АО «Данон Россия»"
+          ],
+          [
+            "Страна производителя",
+            "Россия"
+          ],
+          [
+            "Упаковка",
+            "930 мл"
+          ],
+          [
+            "Калорийность на 100 г",
+            "61–71 кКал"
+          ],
+          [
+            "Жирность",
+            "3,4–4,5%"
+          ]
+        ]
+      },
+      {
+        "catalog": "milk-cheese-egg",
+        "id": "002",
+        "name": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Culpa, aliquam!",
+        "price": "89.99",
+        "price_card": "86.70",
+        "img": [
+          "kefir.png",
+          "401744_1.png"
+        ],
+        "feedback": "",
+        "discount": "",
+        "rating": 4.6,
+        "article": "43345",
+        "characteristic": [
+          [
+            "Бренд",
+            "ПРОСТОКВАШИНО"
+          ],
+          [
+            "Производитель",
+            "АО «Данон Россия»"
+          ],
+          [
+            "Страна производителя",
+            "Россия"
+          ],
+          [
+            "Упаковка",
+            "930 г"
+          ],
+          [
+            "Калорийность на 100 г",
+            "57 кКал"
+          ],
+          [
+            "Жирность",
+            "3,2%"
+          ]
+        ]
+      },
+      {
+        "catalog": "milk-cheese-egg",
+        "id": "003",
+        "name": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Culpa, aliquam!",
+        "price": "77.99",
+        "price_card": "76.34",
+        "img": [
+          "391879.png"
+        ],
+        "rating": 4,
+        "discount": "",
+        "feedback": "",
+        "article": "43345",
+        "characteristic": [
+          [
+            "Бренд",
+            "РОГАЧЕВЪ"
+          ],
+          [
+            "Производитель",
+            "ОАО «Рогачевский молочноконсервный комбинат»"
+          ],
+          [
+            "Страна производителя",
+            "Россия"
+          ],
+          [
+            "Упаковка",
+            "360 г"
+          ],
+          [
+            "Калорийность на 100 г",
+            "330 кКал/1382 кДж"
+          ],
+          [
+            "Жирность",
+            "3,2%"
+          ]
+        ]
+      },
+      {
+        "catalog": "milk-cheese-egg",
+        "id": "004",
+        "name": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Culpa, aliquam!",
+        "price": "36.20",
+        "price_card": "34.99",
+        "img": [
+          "йогурт1.jpg",
+          "193178.png",
+          "193186.png"
+        ],
+        "rating": 4.6,
+        "discount": "",
+        "feedback": "",
+        "article": "43345",
+        "characteristic": [
+          [
+            "Бренд",
+            "FRUTTIS"
+          ],
+          [
+            "Производитель",
+            "ООО «Кампина»"
+          ],
+          [
+            "Страна производителя",
+            "Россия"
+          ],
+          [
+            "Упаковка",
+            "115 г"
+          ],
+          [
+            "Калорийность на 100 г",
+            "120 кКал"
+          ],
+          [
+            "Вкус",
+            "Персик, Маракуйя, Ананас, Дыня"
+          ]
+        ]
+      },
+      {
+        "catalog": "milk-cheese-egg",
+        "id": "005",
+        "name": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Culpa, aliquam!",
+        "price": "36.20",
+        "price_card": "34.99",
+        "img": [
+          "йогурт2.jpg",
+          "193182.png",
+          "193185.png"
+        ],
+        "rating": 4,
+        "discount": "",
+        "feedback": "",
+        "article": "43345",
+        "characteristic": [
+          [
+            "Бренд",
+            "FRUTTIS"
+          ],
+          [
+            "Производитель",
+            "ООО «Кампина»"
+          ],
+          [
+            "Страна производителя",
+            "Россия"
+          ],
+          [
+            "Упаковка",
+            "115 г"
+          ],
+          [
+            "Калорийность на 100 г",
+            "120 кКал"
+          ],
+          [
+            "Вкус",
+            "Вишня, Черника"
+          ]
+        ]
+      },
+      {
+        "catalog": "milk-cheese-egg",
+        "id": "006",
+        "name": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Culpa, aliquam!",
+        "price": "205.99",
+        "price_card": "200.94",
+        "img": [
+          "244310_5.png",
+          "401766_1.png"
+        ],
+        "rating": 4.6,
+        "discount": "",
+        "feedback": "",
+        "article": "43345",
+        "characteristic": [
+          [
+            "Бренд",
+            "ПРОСТОКВАШИНО"
+          ],
+          [
+            "Производитель",
+            "АО «Данон Россия»"
+          ],
+          [
+            "Страна производителя",
+            "Россия"
+          ],
+          [
+            "Упаковка",
+            "180 Г"
+          ],
+          [
+            "Жирность",
+            "82%"
+          ]
+        ]
+      },
+      {
+        "catalog": "milk-cheese-egg",
+        "id": "007",
+        "name": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Culpa, aliquam!",
+        "price": "77.99",
+        "price_card": "68.50",
+        "img": [
+          "сыр-дорблю.jpg",
+          "299026.png"
+        ],
+        "rating": 1,
+        "discount": "2",
+        "feedback": "",
+        "article": "43345",
+        "characteristic": [
+          [
+            "Бренд",
+            "DORBLU"
+          ],
+          [
+            "Производитель",
+            "ООО «Плавит»"
+          ],
+          [
+            "Страна производителя",
+            "Россия"
+          ],
+          [
+            "Упаковка",
+            "80 Г"
+          ],
+          [
+            "Калорийность на 100 г",
+            "274 кКал/1132 кДж"
+          ],
+          [
+            "Жирность",
+            "65%"
+          ],
+          [
+            "Выдержка",
+            "0,5 года"
+          ],
+          [
+            "Классификация сыров",
+            "С голубой плесенью"
+          ]
+        ]
+      },
+      {
+        "catalog": "milk-cheese-egg",
+        "id": "008",
+        "name": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Culpa, aliquam!",
+        "price": "168.29",
+        "price_card": "139.49",
+        "img": [
+          "chudo-molochni-kokteil-shokolad.png"
+        ],
+        "rating": 2,
+        "discount": "30",
+        "feedback": "",
+        "article": "43345",
+        "characteristic": [
+          [
+            "Бренд",
+            "ЧУДО"
+          ],
+          [
+            "Производитель",
+            "АО «Вимм-Билль-Данн»"
+          ],
+          [
+            "Страна производителя",
+            "Россия"
+          ],
+          [
+            "Упаковка",
+            "960 Г"
+          ],
+          [
+            "Калорийность на 100 г",
+            "65 кКал"
+          ],
+          [
+            "Жирность",
+            "2%"
+          ],
+          [
+            "Вкус",
+            "Шоколад"
+          ]
+        ]
+      },
+      {
+        "catalog": "milk-cheese-egg",
+        "id": "009",
+        "name": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Culpa, aliquam!",
+        "price": "379.99",
+        "price_card": "",
+        "img": [
+          "bonvida-slivki-1000g-33.png",
+          "331619_4.png"
+        ],
+        "rating": 4,
+        "discount": "",
+        "feedback": "",
+        "article": "43345",
+        "characteristic": [
+          [
+            "Бренд",
+            "BONVIDA"
+          ],
+          [
+            "Производитель",
+            "ОАО «МИЛКОМ»"
+          ],
+          [
+            "Страна производителя",
+            "Россия"
+          ],
+          [
+            "Упаковка",
+            "1000 Г"
+          ],
+          [
+            "Калорийность на 100 г",
+            "319 кКал/1336 кД"
+          ],
+          [
+            "Жирность",
+            "33%"
+          ],
+          [
+            "Способ обработки",
+            "Ультрапастеризованный"
+          ]
+        ]
+      },
+      {
+        "catalog": "milk-cheese-egg",
+        "id": "010",
+        "name": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Culpa, aliquam!",
+        "price": "187.60",
+        "price_card": "175.10",
+        "img": [
+          "vkusnoteevo-slivki-475g-20.png"
+        ],
+        "rating": 4.6,
+        "discount": "7",
+        "feedback": "",
+        "article": "43345",
+        "characteristic": [
+          [
+            "Бренд",
+            "ВКУСНОТЕЕВО"
+          ],
+          [
+            "Производитель",
+            "ПАО «Молочный Комбинат Воронежский»"
+          ],
+          [
+            "Страна производителя",
+            "Россия"
+          ],
+          [
+            "Упаковка",
+            "475 Г"
+          ],
+          [
+            "Калорийность на 100 г",
+            "206 кКал"
+          ],
+          [
+            "Жирность",
+            "20%"
+          ],
+          [
+            "Способ обработки",
+            "Ультрапастеризованный"
+          ]
+        ]
+      },
+      {
+        "catalog": "milk-cheese-egg",
+        "id": "011",
+        "name": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Culpa, aliquam!",
+        "price": "89.89",
+        "price_card": "",
+        "img": [
+          "lebedan-rajenka-4.png",
+          "104089.png",
+          "104090.png"
+        ],
+        "rating": 3,
+        "discount": "",
+        "feedback": "",
+        "article": "43345",
+        "characteristic": [
+          [
+            "Бренд",
+            "ЛЕБЕДЯНЬ"
+          ],
+          [
+            "Производитель",
+            "ООО «Лебедяньмолоко»"
+          ],
+          [
+            "Страна производителя",
+            "Россия"
+          ],
+          [
+            "Упаковка",
+            "900 Г"
+          ],
+          [
+            "Калорийность на 100 г",
+            "65 кКал"
+          ],
+          [
+            "Жирность",
+            "4%"
+          ]
+        ]
+      },
+      {
+        "catalog": "milk-cheese-egg",
+        "id": "012",
+        "name": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Culpa, aliquam!",
+        "price": "449.99",
+        "price_card": "",
+        "img": [
+          "maslo-slivochnoe-vkusnoteevo-400g.png",
+          "401389.png",
+          "401390.png"
+        ],
+        "rating": 3,
+        "discount": "",
+        "feedback": "",
+        "article": "43345",
+        "characteristic": [
+          [
+            "Бренд",
+            "ВКУСНОТЕЕВО"
+          ],
+          [
+            "Производитель",
+            "Филиал ПАО «МК «Воронежский» «Калачеевский сырзавод»"
+          ],
+          [
+            "Страна производителя",
+            "Россия"
+          ],
+          [
+            "Упаковка",
+            "400 Г"
+          ],
+          [
+            "Калорийность на 100 г",
+            "748 кКал"
+          ],
+          [
+            "Жирность",
+            "82,5%"
+          ]
+        ]
+      },
+      {
+        "catalog": "milk-cheese-egg",
+        "id": "013",
+        "name": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Culpa, aliquam!",
+        "price": "849.12",
+        "price_card": "824.47",
+        "img": [
+          "sir-lamber-0.5kg.png"
+        ],
+        "rating": 3.5,
+        "discount": "4",
+        "feedback": "",
+        "article": "43345",
+        "characteristic": [
+          [
+            "Бренд",
+            "ЛАМБЕР"
+          ],
+          [
+            "Производитель",
+            "АО «Вимм-Билль-Данн»"
+          ],
+          [
+            "Страна производителя",
+            "Россия"
+          ],
+          [
+            "Тип разделки / Форма выпуска",
+            "Кусок"
+          ],
+          [
+            "Калорийность на 100 г",
+            "365 кКал/1513 кДж"
+          ],
+          [
+            "Жирность",
+            "50%"
+          ],
+          [
+            "Условия хранения",
+            "При температуре от 0 до +6."
+          ]
+        ]
+      },
+      {
+        "catalog": "milk-cheese-egg",
+        "id": "014",
+        "name": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Culpa, aliquam!",
+        "price": "154.699",
+        "price_card": "",
+        "img": [
+          "tvorog.png"
+        ],
+        "rating": 4,
+        "discount": "",
+        "feedback": "",
+        "article": "43345",
+        "characteristic": [
+          [
+            "Бренд",
+            "ЛЕБЕДЯНЬМОЛОКО"
+          ],
+          [
+            "Производитель",
+            "ООО «Лебедяньмолока»"
+          ],
+          [
+            "Страна производителя",
+            "Россия"
+          ],
+          [
+            "Упаковка",
+            "300 г"
+          ],
+          [
+            "Калорийность на 100 г",
+            "121 кКал"
+          ],
+          [
+            "Жирность",
+            "5%"
+          ],
+          [
+            "Условия хранения",
+            "При температуре от +2 до +6."
+          ]
+        ]
+      },
+      {
+        "catalog": "milk-cheese-egg",
+        "id": "015",
+        "name": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Culpa, aliquam!",
+        "price": "199.89",
+        "price_card": "189.89",
+        "img": [
+          "лето-яйца-столовые.png",
+          "303168_5.png",
+          "303106_5.png",
+          "456969.png",
+          "456970.png"
+        ],
+        "rating": 4.6,
+        "discount": "12",
+        "feedback": "",
+        "article": "43345",
+        "characteristic": [
+          [
+            "Бренд",
+            "ЛЕТО"
+          ],
+          [
+            "Производитель",
+            "ООО «Белянка»"
+          ],
+          [
+            "Страна производителя",
+            "Россия"
+          ],
+          [
+            "Упаковка",
+            "20 шт"
+          ],
+          [
+            "Калорийность на 100 г",
+            "157 кКал/653 кДж"
+          ],
+          [
+            "Сорт",
+            "С1"
+          ],
+          [
+            "Условия хранения",
+            "При температуре от 0 до +20 и относительной влажности воздуха 85–88%."
+          ]
+        ]
+      },
+      {
+        "catalog": "milk-cheese-egg",
+        "id": "016",
+        "name": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Culpa, aliquam!",
+        "price": "101.09",
+        "price_card": "",
+        "img": [
+          "липецкое-яйцо.png",
+          "71718.png"
+        ],
+        "rating": 3.5,
+        "discount": "",
+        "feedback": "",
+        "article": "43345",
+        "characteristic": [
+          [
+            "Бренд",
+            "ЛИПЕЦКОЕ"
+          ],
+          [
+            "Производитель",
+            "СПССПК «ЭКОПТИЦА»"
+          ],
+          [
+            "Страна производителя",
+            "Россия"
+          ],
+          [
+            "Упаковка",
+            "10 шт"
+          ],
+          [
+            "Калорийность на 100 г",
+            "153 кКал"
+          ],
+          [
+            "Сорт",
+            "С1"
+          ],
+          [
+            "Условия хранения",
+            "При температуре от 0 до +20 и относительной влажности воздуха 85–88%."
+          ]
+        ]
+      },
+      {
+        "catalog": "milk-cheese-egg",
+        "id": "017",
+        "name": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Culpa, aliquam!",
+        "price": "96.45",
+        "price_card": "",
+        "img": [
+          "простоквашина-спетана-15.png"
+        ],
+        "rating": 3.5,
+        "discount": "",
+        "feedback": "",
+        "article": "43345",
+        "characteristic": [
+          [
+            "Бренд",
+            "ПРОСТОКВАШИНО"
+          ],
+          [
+            "Производитель",
+            "АО «Данон Россия»"
+          ],
+          [
+            "Страна производителя",
+            "Россия"
+          ],
+          [
+            "Упаковка",
+            "300 г"
+          ],
+          [
+            "Калорийность на 100 г",
+            "160 кКал"
+          ],
+          [
+            "Жирность",
+            "15%"
+          ],
+          [
+            "Условия хранения",
+            "При температуре от +2 до +6"
+          ]
+        ]
+      },
+      {
+        "catalog": "milk-cheese-egg",
+        "id": "018",
+        "name": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Culpa, aliquam!",
+        "price": "36.79",
+        "price_card": "34.89",
+        "img": [
+          "сырок-глазированный-вкуснотеево-ваниль.png"
+        ],
+        "rating": 5,
+        "discount": "9",
+        "feedback": "",
+        "article": "43345",
+        "characteristic": [
+          [
+            "Бренд",
+            "ВКУСНОТЕЕВО"
+          ],
+          [
+            "Производитель",
+            "ООО «Малыш»"
+          ],
+          [
+            "Страна производителя",
+            "Россия"
+          ],
+          [
+            "Упаковка",
+            "40 г"
+          ],
+          [
+            "Калорийность на 100 г",
+            "325,9 кКал"
+          ],
+          [
+            "Жирность",
+            "16%"
+          ],
+          [
+            "Условия хранения",
+            "При температуре от +2 до +6"
+          ]
+        ]
+      },
+      {
+        "catalog": "milk-cheese-egg",
+        "id": "020",
+        "name": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Culpa, aliquam!",
+        "price": "525.79",
+        "price_card": "599.99",
+        "img": [
+          "сыр-российский.png"
+        ],
+        "rating": 4,
+        "discount": "19",
+        "feedback": "",
+        "article": "43345",
+        "characteristic": [
+          [
+            "Бренд",
+            "РОССИЙСКИЙ"
+          ],
+          [
+            "Страна производителя",
+            "Россия"
+          ],
+          [
+            "Жирность",
+            "50%"
+          ],
+          [
+            "Калорийность на 100 г",
+            "354 ккал"
+          ],
+          [
+            "Выдержка",
+            "2 месяца"
+          ],
+          [
+            "Условия хранения",
+            "При температуре от 0 до +6 и относительной влажности воздуха 80–85% включительно."
+          ]
+        ]
+      }
+    ]
+  },
+  "breed": {
+    "fillters": [
+      "Батон",
+      "Хлеб пшеничный",
+      "Хлеб ржаной",
+      "Лаваши, лепешки"
+    ],
+    "cardData": [
+      {
+        "catalog": "breed",
+        "id": "019",
+        "name": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Culpa, aliquam!",
+        "price": "46.79",
+        "price_card": "39.89",
+        "img": [
+          "baton-limak.png"
+        ],
+        "rating": 4.6,
+        "discount": "5",
+        "feedback": [],
+        "article": "43345",
+        "characteristic": [
+          [
+            "Вид теста",
+            "Дрожжевое"
+          ],
+          [
+            "Вид",
+            "Пшеничный"
+          ]
+        ]
+      },
+      {
+        "catalog": "breed",
+        "id": "1055",
+        "name": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Culpa, aliquam!",
+        "price": "34.79",
+        "price_card": "32.89",
+        "img": [
+          "329280_6.png"
+        ],
+        "rating": 3,
+        "discount": "5",
+        "feedback": [],
+        "article": "43345",
+        "characteristic": [
+          [
+            "Вид теста",
+            "Дрожжевое"
+          ],
+          [
+            "Слоеный",
+            "Пшеничный"
+          ],
+          [
+            "Начинка",
+            "Миндаль"
+          ]
+        ]
+      }
+    ]
+  },
+  "frozen-foods": {
+    "fillters": [
+      "Пельмени",
+      "Мороженное"
+    ],
+    "cardData": [
+      {
+        "catalog": "frozen-foods",
+        "id": "021",
+        "name": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Culpa, aliquam!",
+        "price": "543.21",
+        "price_card": "245.89",
+        "img": [
+          "pelmeni-cezar-800.png"
+        ],
+        "rating": 4.6,
+        "feedback": "",
+        "discount": "",
+        "article": "43345",
+        "characteristic": [
+          [
+            "Бренд",
+            "ЦЕЗАРЬ"
+          ],
+          [
+            "Производитель",
+            "ООО «Морозко»"
+          ],
+          [
+            "Страна производителя",
+            "Россия"
+          ],
+          [
+            "Упаковка",
+            "800  г"
+          ],
+          [
+            "Калорийность на 100 г",
+            "366 кКал/1537 кДж"
+          ],
+          [
+            "Вид мяса",
+            "Смешанный"
+          ],
+          [
+            "Время приготовления",
+            "5 минут"
+          ]
+        ]
+      },
+      {
+        "catalog": "frozen-foods",
+        "id": "022",
+        "name": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Culpa, aliquam!",
+        "price": "32.21",
+        "price_card": "30.89",
+        "img": [
+          "morojennoe-zolotoi-standart.png"
+        ],
+        "rating": 4,
+        "discount": "",
+        "feedback": "",
+        "article": "44345",
+        "characteristic": [
+          [
+            "Бренд",
+            "ЗОЛОТОЙ СТАНДАРТ"
+          ],
+          [
+            "Производитель",
+            "ООО «Юнилевер Русь»»"
+          ],
+          [
+            "Страна производителя",
+            "Россия"
+          ],
+          [
+            "Упаковка",
+            "86 г"
+          ],
+          [
+            "Калорийность на 100 г",
+            "262 кКал/1094 кДж"
+          ],
+          [
+            "Тип разделки/Форма выпуска",
+            "Вафельный стаканчик"
+          ]
+        ]
+      },
+      {
+        "catalog": "frozen-foods",
+        "id": "023",
+        "name": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Culpa, aliquam!",
+        "price": "710.49",
+        "price_card": "700.89",
+        "img": [
+          "232878_1.png"
+        ],
+        "rating": 4,
+        "article": "43345",
+        "discount": "",
+        "feedback": "",
+        "characteristic": [
+          [
+            "Бренд",
+            "BASKIN ROBBINS"
+          ],
+          [
+            "Производитель",
+            "АО «БРПИ»"
+          ],
+          [
+            "Страна производителя",
+            "Россия"
+          ],
+          [
+            "Упаковка",
+            "1000 мл"
+          ],
+          [
+            "Калорийность на 100 г",
+            "213 кКал/894 кДж"
+          ],
+          [
+            "Жирность",
+            "11,5%"
+          ]
+        ]
+      },
+      {
+        "catalog": "frozen-foods",
+        "id": "024",
+        "name": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Culpa, aliquam!",
+        "price": "109.49",
+        "price_card": "245.89",
+        "img": [
+          "454624_1.png"
+        ],
+        "rating": 4.6,
+        "article": "433245",
+        "feedback": "",
+        "discount": "",
+        "characteristic": [
+          [
+            "Бренд",
+            "ГОРЯЧАЯ ШТУЧКА"
+          ],
+          [
+            "Производитель",
+            "ЗАО «Мясная Галерея»"
+          ],
+          [
+            "Страна производителя",
+            "Россия"
+          ],
+          [
+            "Упаковка",
+            "250 г"
+          ],
+          [
+            "Калорийность на 100 г",
+            "260 кКал/1080 кДж"
+          ],
+          [
+            "Время приготовления",
+            "3 минуты"
+          ]
+        ]
+      },
+      {
+        "catalog": "frozen-foods",
+        "id": "025",
+        "name": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Culpa, aliquam!",
+        "price": "549.49",
+        "price_card": "539.49",
+        "img": [
+          "284471.png",
+          "400588.png"
+        ],
+        "alt": "Мороженное",
+        "rating": 4.6,
+        "discount": "17",
+        "article": "123413",
+        "feedback": "",
+        "characteristic": [
+          [
+            "Бренд",
+            "ЭKZO"
+          ],
+          [
+            "Производитель",
+            "ООО «Юнилевер Русь»»"
+          ],
+          [
+            "Страна производителя",
+            "Россия"
+          ],
+          [
+            "Упаковка",
+            "520 г"
+          ],
+          [
+            "Калорийность на 100 г",
+            "128 кКал/535 кДж"
+          ],
+          [
+            "Жирность",
+            "2%"
+          ]
+        ]
+      },
+      {
+        "catalog": "frozen-foods",
+        "id": "026",
+        "name": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Culpa, aliquam!",
+        "price": "343.49",
+        "price_card": "235.89",
+        "img": [
+          "412160.png"
+        ],
+        "rating": 4.6,
+        "discount": "5",
+        "article": "675413",
+        "feedback": "",
+        "characteristic": [
+          [
+            "Бренд",
+            "ЭKZO"
+          ],
+          [
+            "Производитель",
+            "ООО «Юнилевер Русь»»"
+          ],
+          [
+            "Страна производителя",
+            "Россия"
+          ],
+          [
+            "Упаковка",
+            "520 г"
+          ],
+          [
+            "Калорийность на 100 г",
+            "128 кКал/535 кДж"
+          ],
+          [
+            "Жирность",
+            "2%"
+          ]
+        ]
+      },
+      {
+        "catalog": "frozen-foods",
+        "id": "027",
+        "name": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Culpa, aliquam!",
+        "price": "343.49",
+        "price_card": "157.89",
+        "img": [
+          "194618.png",
+          "6600_1.png",
+          "98378.png"
+        ],
+        "rating": 4,
+        "discount": "25",
+        "article": "545413",
+        "feedback": "",
+        "characteristic": [
+          [
+            "Бренд",
+            "LA TRATTORIA"
+          ],
+          [
+            "Производитель",
+            "ООО «Морозко»"
+          ],
+          [
+            "Страна производителя",
+            "Россия"
+          ],
+          [
+            "Упаковка",
+            "335 г"
+          ],
+          [
+            "Калорийность на 100 г",
+            "263 кКал/1106 кДж"
+          ],
+          [
+            "Время приготовления",
+            "В духовом шкафу: 10–15 минут, в СВЧ-печи: 3–5 минут"
+          ]
+        ]
+      }
+    ]
+  },
+  "drinks": {
+    "fillters": [
+      "Газировка",
+      "Сок",
+      "Коктель"
+    ],
+    "cardData": [
+      {
+        "catalog": "drinks",
+        "id": "028",
+        "name": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Culpa, aliquam!",
+        "price": "59.99",
+        "price_card": "",
+        "img": [
+          "324213_6.png"
+        ],
+        "rating": 4.6,
+        "discount": "8",
+        "feedback": [
+          {
+            "author": "Кирил",
+            "rating": "5",
+            "data": "22.04.2022",
+            "comment": "Очень вкусный напиток зеленого цвета, вспоминаеться вкус детсва. Всем рекомендую!"
+          },
+          {
+            "author": "Степан",
+            "rating": "5",
+            "data": "22.04.2022",
+            "comment": "Очень вкусный напиток зеленого цвета, вспоминаеться вкус детсва. Всем рекомендую!"
+          },
+          {
+            "author": "Ирина",
+            "rating": "4",
+            "data": "22.04.2022",
+            "comment": "Очень вкусный напиток зеленого цвета, вспоминаеться вкус детсва. Всем рекомендую!"
+          }
+        ],
+        "article": "33245",
+        "characteristic": [
+          [
+            "Бренд",
+            "ЛЕНТА"
+          ],
+          [
+            "Производитель",
+            "ООО «Триера»"
+          ],
+          [
+            "Страна производителя",
+            "Россия"
+          ],
+          [
+            "Вкус",
+            "Тархун"
+          ],
+          [
+            "Вид упаковки",
+            "Стеклянная бутылка"
+          ],
+          [
+            "Условия хранения",
+            "При температуре от 0 до +30 и относительной влажности воздуха не более 85%. После вскрытия упаковки при температуре от 0 до +7 не более 5 суток."
+          ]
+        ]
+      },
+      {
+        "catalog": "drinks",
+        "id": "029",
+        "name": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Culpa, aliquam!",
+        "price": "82.99",
+        "price_card": "79.12",
+        "img": [
+          "438097_1.png"
+        ],
+        "rating": 5,
+        "discount": "29",
+        "feedback": [
+          {
+            "author": "Семен",
+            "rating": "5",
+            "data": "22.04.2022",
+            "comment": "Очень вкусный напиток зеленого цвета, вспоминаеться вкус детсва. Всем рекомендую!"
+          }
+        ],
+        "article": "33245",
+        "characteristic": [
+          [
+            "Бренд",
+            "ДОБРЫЙ"
+          ],
+          [
+            "Производитель",
+            "ООО «Мултон Партнерс»"
+          ],
+          [
+            "Страна производителя",
+            "Россия"
+          ],
+          [
+            "Вид упаковки",
+            "Пластиковая бутылка"
+          ],
+          [
+            "Условия хранения",
+            "При температуре от 0 до +30, беречь от попадания солнечного света."
+          ]
+        ]
+      },
+      {
+        "catalog": "drinks",
+        "id": "030",
+        "name": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Culpa, aliquam!",
+        "price": "82.99",
+        "price_card": "79.12",
+        "img": [
+          "438096_1.png"
+        ],
+        "rating": 4,
+        "discount": "29",
+        "feedback": [
+          {
+            "author": "Семен",
+            "rating": "5",
+            "data": "22.04.2022",
+            "comment": "Очень вкусный напиток зеленого цвета, вспоминаеться вкус детсва. Всем рекомендую!"
+          }
+        ],
+        "article": "33245",
+        "characteristic": [
+          [
+            "Бренд",
+            "ДОБРЫЙ"
+          ],
+          [
+            "Производитель",
+            "ООО «Мултон Партнерс»"
+          ],
+          [
+            "Страна производителя",
+            "Россия"
+          ],
+          [
+            "Вкус",
+            "Апельсин"
+          ],
+          [
+            "Вид упаковки",
+            "Пластиковая бутылка"
+          ],
+          [
+            "Условия хранения",
+            "При температуре от 0 до +30, беречь от попадания солнечного света."
+          ]
+        ]
+      },
+      {
+        "catalog": "drinks",
+        "id": "031",
+        "name": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Culpa, aliquam!",
+        "price": "112.99",
+        "price_card": "94.12",
+        "img": [
+          "387296.png"
+        ],
+        "rating": 5,
+        "discount": "",
+        "feedback": [
+          {
+            "author": "Семен",
+            "rating": "5",
+            "data": "22.04.2022",
+            "comment": "Очень вкусный напиток зеленого цвета, вспоминаеться вкус детсва. Всем рекомендую!"
+          }
+        ],
+        "article": "33245",
+        "characteristic": [
+          [
+            "Бренд",
+            "ЧЕРНОГОЛОВКА"
+          ],
+          [
+            "Производитель",
+            "ООО «ПК «Аквалайф»"
+          ],
+          [
+            "Страна производителя",
+            "Россия"
+          ],
+          [
+            "Вкус",
+            "Мандарин"
+          ],
+          [
+            "Вид упаковки",
+            "Пластиковая бутылка"
+          ],
+          [
+            "Условия хранения",
+            "При температуре от 0 до +25."
+          ]
+        ]
+      },
+      {
+        "catalog": "drinks",
+        "id": "032",
+        "name": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Culpa, aliquam!",
+        "price": "147.99",
+        "price_card": "139.32",
+        "img": [
+          "221544_2.png",
+          "221564_2.png",
+          "428892.png"
+        ],
+        "rating": 5,
+        "discount": "",
+        "feedback": [
+          {
+            "author": "Семен",
+            "rating": "5",
+            "data": "22.04.2022",
+            "comment": "Очень вкусный напиток зеленого цвета, вспоминаеться вкус детсва. Всем рекомендую!"
+          }
+        ],
+        "article": "33245",
+        "characteristic": [
+          [
+            "Бренд",
+            "J7"
+          ],
+          [
+            "Производитель",
+            "ООО «ПепсиКо Холдингс»"
+          ],
+          [
+            "Страна производителя",
+            "Россия"
+          ],
+          [
+            "Вкус",
+            "Вишня"
+          ],
+          [
+            "Вид упаковки",
+            "Тетра-пак"
+          ],
+          [
+            "Условия хранения",
+            "При температуре от 0 до +25 и относительной влажности воздуха не более 75%. Открытую упаковку хранить в холодильнике при температуре от +2 до +6 не более суток."
+          ]
+        ]
+      },
+      {
+        "catalog": "drinks",
+        "id": "033",
+        "name": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Culpa, aliquam!",
+        "price": "113.23",
+        "price_card": "99.99",
+        "img": [
+          "434833_2.png"
+        ],
+        "rating": 5,
+        "discount": " ",
+        "feedback": [
+          {
+            "author": "Семен",
+            "rating": "5",
+            "data": "22.04.2022",
+            "comment": "Очень вкусный напиток зеленого цвета, вспоминаеться вкус детсва. Всем рекомендую!"
+          }
+        ],
+        "article": "33245",
+        "characteristic": [
+          [
+            "Бренд",
+            "COOL COLA"
+          ],
+          [
+            "Производитель",
+            "АО Московский пиво-безалкогольный комбинат «Очаково»"
+          ],
+          [
+            "Страна производителя",
+            "Россия"
+          ],
+          [
+            "Вкус",
+            "Ваниль"
+          ],
+          [
+            "Вид упаковки",
+            "Пластиковая бутылка"
+          ],
+          [
+            "Условия хранения",
+            "При температуре от 0 до +30 в месте, защищенном от воздействия прямых солнечных лучей. После вскрытия упаковки хранить напиток в закрытой таре при температуре от +2 до +6."
+          ]
+        ]
+      }
+    ]
+  },
+  "confectionery-products": {
+    "fillters": [
+      "Жевательная резинка",
+      "Зефир, мармелад, восточные сладости",
+      "Конфеты",
+      "Мучные кондитерские изделия",
+      "Торты, пирожные и десерты",
+      "Шоколад"
+    ],
+    "cardData": [
+      {
+        "catalog": "confectionery-products",
+        "id": "040",
+        "name": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Culpa, aliquam!",
+        "price": "154.21",
+        "price_card": "123.89",
+        "img": [
+          "113775.png"
+        ],
+        "rating": 5,
+        "feedback": [],
+        "discount": " ",
+        "article": "13445",
+        "characteristic": [
+          [
+            "Бренд",
+            "RITTER SPORT"
+          ],
+          [
+            "Производитель",
+            "Alfred Ritter GmbH & Co"
+          ],
+          [
+            "Страна производителя",
+            "Россия"
+          ],
+          [
+            "Упаковка",
+            "100 г"
+          ],
+          [
+            "Калорийность на 100 г",
+            "556 кКал/2319 кДж"
+          ],
+          [
+            "Вид изделия",
+            "Молочный"
+          ],
+          [
+            "Условия хранения",
+            "При температуре от +15 до +21 и относительной влажности воздуха не более 75%, хранить в сухом, прохладном месте."
+          ]
+        ]
+      },
+      {
+        "catalog": "confectionery-products",
+        "id": "034",
+        "name": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Culpa, aliquam!",
+        "price": "52.49",
+        "price_card": "49.19",
+        "img": [
+          "178559.png"
+        ],
+        "rating": 3,
+        "feedback": [],
+        "discount": "",
+        "article": "13445",
+        "characteristic": [
+          [
+            "Бренд",
+            "MELLER"
+          ],
+          [
+            "Производитель",
+            "ООО «Перфетти Ван Мелле»"
+          ],
+          [
+            "Страна производителя",
+            "Россия"
+          ],
+          [
+            "Упаковка",
+            "38 г"
+          ],
+          [
+            "Калорийность на 100 г",
+            "410 кКал/1700 кДж"
+          ],
+          [
+            "Вид изделия",
+            "Жевательный"
+          ],
+          [
+            "Условия хранения",
+            "При температуре от +15 до +21 и относительной влажности воздуха не более 75%, хранить в сухом, прохладном месте."
+          ]
+        ]
+      },
+      {
+        "catalog": "confectionery-products",
+        "id": "035",
+        "name": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Culpa, aliquam!",
+        "price": "440.29",
+        "price_card": "430.09",
+        "img": [
+          "192569_3.png"
+        ],
+        "rating": 3,
+        "feedback": [],
+        "discount": "19",
+        "article": "13445",
+        "characteristic": [
+          [
+            "Бренд",
+            "MERCI"
+          ],
+          [
+            "Производитель",
+            "August Strock KG"
+          ],
+          [
+            "Серия",
+            "Finest selection"
+          ],
+          [
+            "Страна производителя",
+            "Россия"
+          ],
+          [
+            "Упаковка",
+            "250 г"
+          ],
+          [
+            "Калорийность на 100 г",
+            "575 кКал/2405,8 кДж"
+          ],
+          [
+            "Вид изделия",
+            "Шоколадный"
+          ],
+          [
+            "Условия хранения",
+            "При температуре от +13 до +21 и относительной влажности воздуха от 40 до 65%."
+          ]
+        ]
+      },
+      {
+        "catalog": "confectionery-products",
+        "id": "036",
+        "name": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Culpa, aliquam!",
+        "price": "110.29",
+        "price_card": "98.11",
+        "img": [
+          "454118.png"
+        ],
+        "rating": 3,
+        "feedback": [],
+        "discount": "11",
+        "article": "13445",
+        "characteristic": [
+          [
+            "Бренд",
+            "DOVE"
+          ],
+          [
+            "Производитель",
+            "ООО «Одинцовская кондитерская фабрика»"
+          ],
+          [
+            "Страна производителя",
+            "Россия"
+          ],
+          [
+            "Упаковка",
+            "90 г"
+          ],
+          [
+            "Калорийность на 100 г",
+            "543 кКал/2273 кДж"
+          ],
+          [
+            "Вид изделия",
+            "Молочный"
+          ],
+          [
+            "Условия хранения",
+            "При температуре от +5 до +22 и относительной влажности воздуха не более 70%."
+          ]
+        ]
+      },
+      {
+        "catalog": "confectionery-products",
+        "id": "037",
+        "name": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Culpa, aliquam!",
+        "price": "110.29",
+        "price_card": "98.11",
+        "img": [
+          "229094.png",
+          "229068_1.png"
+        ],
+        "rating": 5,
+        "feedback": [],
+        "discount": "",
+        "article": "13445",
+        "characteristic": [
+          [
+            "Бренд",
+            "DOVE"
+          ],
+          [
+            "Производитель",
+            "ООО «Одинцовская кондитерская фабрика»"
+          ],
+          [
+            "Страна производителя",
+            "Россия"
+          ],
+          [
+            "Упаковка",
+            "90 г"
+          ],
+          [
+            "Калорийность на 100 г",
+            "543 кКал/2273 кДж"
+          ],
+          [
+            "Вид изделия",
+            "Молочный"
+          ],
+          [
+            "Условия хранения",
+            "При температуре от +5 до +22 и относительной влажности воздуха не более 70%."
+          ]
+        ]
+      },
+      {
+        "catalog": "confectionery-products",
+        "id": "038",
+        "name": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Culpa, aliquam!",
+        "price": "56.69",
+        "price_card": "44.41",
+        "img": [
+          "377485.png"
+        ],
+        "rating": 5,
+        "feedback": [],
+        "discount": "",
+        "article": "13445",
+        "characteristic": [
+          [
+            "Бренд",
+            "FRUIT-TELLA"
+          ],
+          [
+            "Производитель",
+            "ООО «Перфетти Ван Мелле»"
+          ],
+          [
+            "Страна производителя",
+            "Россия"
+          ],
+          [
+            "Упаковка",
+            "41 г"
+          ],
+          [
+            "Калорийность на 100 г",
+            "400 кКал/1697 кДж"
+          ],
+          [
+            "Вид изделия",
+            "Жевательный"
+          ],
+          [
+            "Условия хранения",
+            "При температуре от +5 до +22 и относительной влажности воздуха не более 70%."
+          ]
+        ]
+      },
+      {
+        "catalog": "confectionery-products",
+        "id": "039",
+        "name": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Culpa, aliquam!",
+        "price": "56.69",
+        "price_card": "44.41",
+        "img": [
+          "286709_3.png"
+        ],
+        "rating": 4.6,
+        "feedback": [
+          {
+            "author": "Ольга",
+            "rating": "4",
+            "data": "08.08.2022",
+            "comment": "Чуть меньше сахара и будет отличный, а пока сладковат"
+          },
+          {
+            "author": "Ксения",
+            "rating": "4",
+            "data": "29.11.2022",
+            "comment": "обычный шоколад, но отличный и не поганый"
+          },
+          {
+            "author": "Геннадий",
+            "rating": "5",
+            "data": "14.06.2022",
+            "comment": "сыну нравится шоколад мне цена"
+          }
+        ],
+        "discount": "35",
+        "article": "13445",
+        "characteristic": [
+          [
+            "Бренд",
+            "ALPEN GOLD"
+          ],
+          [
+            "Производитель",
+            "ООО «Мон'дэлис Русь»"
+          ],
+          [
+            "Страна производителя",
+            "Россия"
+          ],
+          [
+            "Упаковка",
+            "85 г"
+          ],
+          [
+            "Калорийность на 100 г",
+            "522 кКал"
+          ],
+          [
+            "Вид изделия",
+            "Молочный"
+          ],
+          [
+            "Условия хранения",
+            "При температуре от +5 до +22 и относительной влажности воздуха не более 70%, не подвергать воздействию прямого солнечного света."
+          ]
+        ]
+      },
+      {
+        "catalog": "confectionery-products",
+        "id": "041",
+        "name": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Culpa, aliquam!",
+        "price": "611.23",
+        "price_card": "589.99",
+        "img": [
+          "235718_3.png",
+          "397975_1.png"
+        ],
+        "rating": 4,
+        "feedback": [
+          {
+            "author": "Евгений",
+            "rating": "5",
+            "data": "19.10.2019",
+            "comment": "NUTELLA- пища Богов!"
+          },
+          {
+            "author": "Ольга",
+            "rating": "4",
+            "data": "10.05.2021",
+            "comment": "Вкусная, но орехов в ней все меньше и меньше, раньше было 13%, потом 8%, а теперь вообще не указано сколько"
+          },
+          {
+            "author": "Мария",
+            "rating": "5",
+            "data": "19.02.2021",
+            "comment": "что ты тут забыл бегом покупать нутелу"
+          },
+          {
+            "author": "Зурида",
+            "rating": "1",
+            "data": "30.01.2022",
+            "comment": "раньше была лучше(по составу),сейчас добавляют растительный жир😐"
+          }
+        ],
+        "discount": "29",
+        "article": "13445",
+        "characteristic": [
+          [
+            "Бренд",
+            "NUTELLA"
+          ],
+          [
+            "Производитель",
+            "ЗАО «Ферреро Руссия»"
+          ],
+          [
+            "Упаковка",
+            "630 г"
+          ],
+          [
+            "Калорийность на 100 г",
+            "539 кКал/2257 кДж"
+          ],
+          [
+            "Вид изделия",
+            "Ореховый"
+          ],
+          [
+            "Условия хранения",
+            "При температуре от +18 до +24."
+          ]
+        ]
+      },
+      {
+        "catalog": "confectionery-products",
+        "id": "042",
+        "name": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Culpa, aliquam!",
+        "price": "123.23",
+        "price_card": "111.99",
+        "img": [
+          "285569_1.png",
+          "397930_1.png",
+          "454654_1.png"
+        ],
+        "rating": 4.6,
+        "feedback": [
+          {
+            "author": "Николай",
+            "rating": "3",
+            "data": "04.09.2021",
+            "comment": "Ценник снова взлетел? Всегда их по 60 рублей их покупали.."
+          },
+          {
+            "author": "Глеб",
+            "rating": "5",
+            "data": "17.07.2020",
+            "comment": "Вкуснятинка! Детям в самый раз. Особенно радует индивидуальная упаковка каждого 'медвежонка'."
+          },
+          {
+            "author": "Людмила",
+            "rating": "4",
+            "data": "11.09.2022",
+            "comment": "Вкусно и удобно ребёнку в школу, но цена не радует."
+          },
+          {
+            "author": "Мадина",
+            "rating": "5",
+            "data": "14.12.2021",
+            "comment": "Нравится то, что в Ленте их можно брать по дешевле ото цены в других магазинах взлетают с каждым днём все выше и выше"
+          }
+        ],
+        "discount": "",
+        "article": "13445",
+        "characteristic": [
+          [
+            "Бренд",
+            "МЕДВЕЖОНОК БАРНИ"
+          ],
+          [
+            "Производитель",
+            "ООО «Мон'дэлис Русь»"
+          ],
+          [
+            "Упаковка",
+            "150 г"
+          ],
+          [
+            "Калорийность на 100 г",
+            "495 кКал/2074 кДж"
+          ],
+          [
+            "Вид изделия",
+            "Бисквитный"
+          ],
+          [
+            "Условия хранения",
+            "При температуре от +10 до +20 и относительной влажности воздуха не более 65%."
+          ]
+        ]
+      },
+      {
+        "catalog": "confectionery-products",
+        "id": "043",
+        "name": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Culpa, aliquam!",
+        "price": "501.99",
+        "price_card": "487.99",
+        "img": [
+          "381438_3.png",
+          "352730_1.png",
+          "353497.png",
+          "352729_1.png"
+        ],
+        "rating": 5,
+        "feedback": [
+          {
+            "author": "Регина",
+            "rating": "5",
+            "data": "04.09.2021",
+            "comment": "Ооооочень вкусный!!!!!! Один из любимых!"
+          },
+          {
+            "author": "Евгения",
+            "rating": "5",
+            "data": "13.09.2021",
+            "comment": "очень вкусный торт!Лёгкий крем и не приторный"
+          },
+          {
+            "author": "Лиана",
+            "rating": "5",
+            "data": "03.11.2021",
+            "comment": "Очень вкусный, нежный, малосладкий торт! Крем - что-то среднее между мороженым и кремом.. Теперь это мой любимый торт!"
+          }
+        ],
+        "discount": "",
+        "article": "13445",
+        "characteristic": [
+          [
+            "Бренд",
+            "MIREL"
+          ],
+          [
+            "Производитель",
+            "Черничное молоко"
+          ],
+          [
+            "Упаковка",
+            "750 г"
+          ],
+          [
+            "Калорийность на 100 г",
+            "257 кКал/1076 кДж"
+          ],
+          [
+            "Вид изделия",
+            "Мучной"
+          ],
+          [
+            "Условия хранения",
+            "При температуре от +2 до +6."
+          ]
+        ]
+      },
+      {
+        "catalog": "confectionery-products",
+        "id": "044",
+        "name": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Culpa, aliquam!",
+        "price": "369.99",
+        "price_card": "239.99",
+        "img": [
+          "393767.png",
+          "393779.png",
+          "454659_1.png"
+        ],
+        "rating": 5,
+        "feedback": [
+          {
+            "author": "Татьяна",
+            "rating": "5",
+            "data": "28.04.2022",
+            "comment": "Любимый шоколад Милка!"
+          }
+        ],
+        "discount": "",
+        "article": "13445",
+        "characteristic": [
+          [
+            "Бренд",
+            "MILKA"
+          ],
+          [
+            "Производитель",
+            "Mondelez"
+          ],
+          [
+            "Упаковка",
+            "94,5 г"
+          ],
+          [
+            "Калорийность на 100 г",
+            "574 кКал/2402 кДж"
+          ],
+          [
+            "Вид изделия",
+            "Шоколадный"
+          ],
+          [
+            "Условия хранения",
+            "При температуре от +5 до +15 и относительной влажности воздуха не более 65%."
+          ]
+        ]
+      },
+      {
+        "catalog": "confectionery-products",
+        "id": "045",
+        "name": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Culpa, aliquam!",
+        "price": "55.99",
+        "price_card": "52.99",
+        "img": [
+          "303708_7.png"
+        ],
+        "rating": 4,
+        "feedback": [
+          {
+            "author": "Татьяна",
+            "rating": "5",
+            "data": "20.12.2022",
+            "comment": "Вкусные, цена как и везде в районе 45 ₽, упаковка неизменная"
+          },
+          {
+            "author": "Ирина",
+            "rating": "4",
+            "data": "29.09.2022",
+            "comment": "считаю с арахисом самые вкусные"
+          }
+        ],
+        "discount": "",
+        "article": "13445",
+        "characteristic": [
+          [
+            "Бренд",
+            "M&M'S"
+          ],
+          [
+            "Производитель",
+            "ООО «Марс»"
+          ],
+          [
+            "Упаковка",
+            "45 г"
+          ],
+          [
+            "Калорийность на 100 г",
+            "511 кКал/2139 кДж"
+          ],
+          [
+            "Вид изделия",
+            "Шоколадный"
+          ],
+          [
+            "Условия хранения",
+            "При температуре от +5 до +22 и относительной влажности воздуха не более 70%"
+          ]
+        ]
+      }
+    ]
+  },
+  "fruits-vegetables": {
+    "fillters": [
+      "Фрукты",
+      "Овощи",
+      "Ягоды"
+    ],
+    "cardData": [
+      {
+        "catalog": "fruits-vegetables",
+        "id": "046",
+        "name": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Culpa, aliquam!",
+        "price": "146.99",
+        "price_card": "111.99",
+        "img": [
+          "377186_2.png"
+        ],
+        "rating": 4,
+        "feedback": [
+          {
+            "author": "Наталия",
+            "rating": "5",
+            "data": "01.12.2019",
+            "comment": "Обожаю этот салатик,хрустящий,сладкий.Идеален для салата Цезарь. Очень обидно,что редко бывает у нас в Гипермаркете"
+          },
+          {
+            "author": "Лариса",
+            "rating": "4",
+            "data": "29.09.2022",
+            "comment": "Салат отличный! Но есть свои тонкости. Для тех,кто любит заказывать-вы должны понимать, что привезут из того, что есть. Лучше чем сам не выберет никто, поэтому не обижайтесь , велком в магазин. Бывает придешь и ценник вау и не взять, нечего выбрать, а бывает хоть всю полку бери. В такие моменты берв сразу 2 самых больших и сочных. Живут в холодильнике в своем отсеке. 👍 Желтые полосы это заломы, цвет за счет железа содержащегося в салатике. Выбирайте сами, по своемв вкусу и пусть вам всем будет вкусно.❤😊🥗"
+          }
+        ],
+        "discount": "",
+        "article": "13445",
+        "characteristic": [
+          [
+            "Сорт",
+            "1-й сорт"
+          ],
+          [
+            "Вид упаковки",
+            "Полиэтиленовая упаковка"
+          ],
+          [
+            "Упаковка",
+            "1 шт"
+          ]
+        ]
+      },
+      {
+        "catalog": "fruits-vegetables",
+        "id": "047",
+        "name": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Culpa, aliquam!",
+        "price": "28.99",
+        "price_card": "26.99",
+        "img": [
+          "293393_2.png"
+        ],
+        "rating": 1.5,
+        "feedback": [
+          {
+            "author": "Александра",
+            "rating": "2",
+            "data": "01.12.2019",
+            "comment": "на этот картофель без слез не взглянешь. цена небюджетная для такого качества! гнилье!!! раньше был лучше, это и понятно - чем старше картофель, тем он должен быть по идее дешевле!!! в начале осени цена была около 13 рублей за кг (вот это эконом!) и качество выше. это я про наш магазин, который находится на ул. Ореховской в Нижнем Новгороде - здесь за качеством овощей и фруктов не следят совершенно, либо считают что и так сойдет((("
+          },
+          {
+            "author": "Сергей",
+            "rating": "1",
+            "data": "29.09.2022",
+            "comment": "эту картошку только на перегной нужно использовать, лежит на прилавке , мелкая, гнилая, и это для людей, её даже свинья есть не будет, надо управляющего этого магазина накормить данным продуктом...."
+          }
+        ],
+        "discount": "",
+        "article": "13445",
+        "characteristic": [
+          [
+            "Стандарт качества",
+            "ГОСТ"
+          ]
+        ]
+      },
+      {
+        "catalog": "fruits-vegetables",
+        "id": "048",
+        "name": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Culpa, aliquam!",
+        "price": "189.99",
+        "price_card": "179.99",
+        "img": [
+          "312282_10.png"
+        ],
+        "rating": 3,
+        "feedback": [
+          {
+            "author": "Александра",
+            "rating": "5",
+            "data": "01.12.2019",
+            "comment": "Очень приятный с кислинкой вкус"
+          },
+          {
+            "author": "Сергей",
+            "rating": "1",
+            "data": "29.09.2022",
+            "comment": "Это подобие мандарин и близко не являются Клементинами."
+          }
+        ],
+        "discount": "",
+        "article": "13445",
+        "characteristic": [
+          [
+            "Стандарт качества",
+            "ГОСТ"
+          ]
+        ]
+      },
+      {
+        "catalog": "fruits-vegetables",
+        "id": "049",
+        "name": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Culpa, aliquam!",
+        "price": "242.99",
+        "price_card": "189.99",
+        "img": [
+          "457523_1.png"
+        ],
+        "rating": 5,
+        "feedback": [
+          {
+            "author": "Виталия",
+            "rating": "5",
+            "data": "24.11.2022",
+            "comment": "Вкусные, сочные, крепенькие, покупала не в упаковке, были обычные развесные, понравились, буду покупать ещё."
+          },
+          {
+            "author": "Анна",
+            "rating": "5",
+            "data": "27.11.2022",
+            "comment": "Не знаю про дороговато, но даже летом не было помидоров ТАКОГО качества. Другие дороже и всё-таки пластиковые. В салате да и просто погрызть супер. Теперь в овощном сразу ищу их."
+          },
+          {
+            "author": "Ольга",
+            "rating": "5",
+            "data": "08.12.2022",
+            "comment": "отличные томаты! вкусные"
+          }
+        ],
+        "discount": "22",
+        "article": "13445",
+        "characteristic": [
+          [
+            "Бренд",
+            "ФЛАМЕНКО"
+          ],
+          [
+            "Страна производителя",
+            "Россия"
+          ],
+          [
+            "Сорт",
+            "Высший"
+          ],
+          [
+            "Стандарт качества",
+            "ДС"
+          ]
+        ]
+      },
+      {
+        "catalog": "fruits-vegetables",
+        "id": "051",
+        "name": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Culpa, aliquam!",
+        "price": "115.99",
+        "price_card": "89.99",
+        "img": [
+          "304229_7.png"
+        ],
+        "rating": 4,
+        "feedback": [
+          {
+            "author": "Анна",
+            "rating": "5",
+            "data": "18.03.2020",
+            "comment": "Самые вкусные яблоки из всех, представленных в ленте. Очень сладкие и хрустящие всегда."
+          }
+        ],
+        "discount": "",
+        "article": "13445",
+        "characteristic": [
+          [
+            "Бренд",
+            "Прочие Товары"
+          ],
+          [
+            "Линейка/Коллекция/Серия/Суббренд",
+            "Ред Чиф"
+          ],
+          [
+            "Сорт",
+            "200 г"
+          ],
+          [
+            "Стандарт качества",
+            "ГОСТ"
+          ]
+        ]
+      },
+      {
+        "catalog": "fruits-vegetables",
+        "id": "052",
+        "name": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Culpa, aliquam!",
+        "price": "252.99",
+        "price_card": "239.99",
+        "img": [
+          "420829.png "
+        ],
+        "rating": 2.5,
+        "feedback": [
+          {
+            "author": "Лена",
+            "rating": "5",
+            "data": "10.10.2022",
+            "comment": "Нормальная клубника , всегда взвешиваю 216 грамм минимум"
+          },
+          {
+            "author": "Марина",
+            "rating": "2",
+            "data": "25.12.2022",
+            "comment": "половина клубники гнилой, очень жаль, ребёнок растроен"
+          },
+          {
+            "author": "Наталия",
+            "rating": "1",
+            "data": "05.01.2023",
+            "comment": "Вся гнилая, мелкая, к покупке не рекомендую!"
+          }
+        ],
+        "discount": "22",
+        "article": "13445",
+        "characteristic": [
+          [
+            "Бренд",
+            "Прочие Товары"
+          ],
+          [
+            "Вид упаковки",
+            "Коррекс"
+          ],
+          [
+            "Упаковка",
+            "1-й сорт"
+          ],
+          [
+            "Стандарт качества",
+            "ГОСТ"
+          ]
+        ]
+      },
+      {
+        "catalog": "fruits-vegetables",
+        "id": "053",
+        "name": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Culpa, aliquam!",
+        "price": "33.79",
+        "price_card": "25.49",
+        "img": [
+          "395640_1.png",
+          "391728_3.png"
+        ],
+        "rating": 2.5,
+        "feedback": [
+          {
+            "author": "Андрей",
+            "rating": "3",
+            "data": "25.04.2021",
+            "comment": "Через раз, то хорошая то плохая, контроль качества отсутствует."
+          },
+          {
+            "author": "Ирина",
+            "rating": "1",
+            "data": "27.06.2021",
+            "comment": "Привезли морковь огромного размера, такую не видела никогда, страшная. Почистила одну, жесткая, безвкусная и запах залежавшейся. Морковь на выброс."
+          }
+        ],
+        "discount": "",
+        "article": "13445",
+        "characteristic": [
+          [
+            "Бренд",
+            "Прочие Товары"
+          ],
+          [
+            "Линейка/Коллекция/Серия/Суббренд",
+            "Эконом"
+          ],
+          [
+            "Стандарт качества",
+            "ГОСТ"
+          ]
+        ]
+      }
+    ]
+  },
+  "tea-coffee": {
+    "fillters": [
+      "Кофе",
+      "Чай",
+      "Какао"
+    ],
+    "cardData": [
+      {
+        "catalog": "tea-coffee",
+        "id": "60",
+        "name": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Culpa, aliquam!",
+        "price": "2726.79",
+        "price_card": "2590.89",
+        "img": [
+          "362252.png",
+          "362253_1.png",
+          "362254.png"
+        ],
+        "rating": 4,
+        "discount": "",
+        "feedback": [
+          {
+            "author": "Сергей",
+            "rating": "5",
+            "data": "21.12.2021",
+            "comment": "Кофе классный, мне нравится. Беру только его, но цена да же с учётом скидки выше чем на рынке почти на 200 рублей."
+          },
+          {
+            "author": "Олеся",
+            "rating": "4",
+            "data": "24.11.2022",
+            "comment": "Кофе хороший, беру только его, но ценник очень высокой и поэтому беру когда акция! Скажу что лента вообще завышает цены, раньше было выгодно ездить, а сейчас раз в пятилетку. Лента сама отпугивает покупателей."
+          }
+        ],
+        "article": "43345",
+        "characteristic": [
+          [
+            "Тип напитка",
+            "Растворимый"
+          ],
+          [
+            "Бренд",
+            "NESCAFE"
+          ],
+          [
+            "Коллекция",
+            "Gold"
+          ],
+          [
+            "Вид упаковки",
+            "Картонная упаковка"
+          ],
+          [
+            "Степень обжарки/ферментации",
+            "Средняя"
+          ],
+          [
+            "Пищевая ценность 100 г",
+            "126 кКал/518 кДж"
+          ],
+          [
+            "Как приготовить",
+            "Положите в кружку 1‒2 чайные ложки кофе и залейте их горячей, но не кипящей водой. По желанию можно добавить сахар, молоко или сливки. Меньше минуты, и любимый напиток с насыщенным ароматом готов. Для кофейных аппаратов: Засыпьте содержимое пакета в соответствующий бункер кофейного аппарата. Аппарат автоматически смешивает содержимое пакета с водой в соответствии с настройками."
+          ]
+        ]
+      },
+      {
+        "catalog": "tea-coffee",
+        "id": "61",
+        "name": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Culpa, aliquam!",
+        "price": "419.79",
+        "price_card": "398.89",
+        "img": [
+          "232579_3.png",
+          "448996.png"
+        ],
+        "rating": 4,
+        "discount": "",
+        "feedback": [
+          {
+            "author": "Наталия",
+            "rating": "5",
+            "data": "16.09.2021",
+            "comment": "Чай отличный. Да, его надо заливать крутым кипятком, он настаивается подольше обычного и не тёмный. Так это потому, что должен раскрыться вкус шиповника, яблок, лимонного сорго, а так же лепестков василька и незабудки)) Всё люди разные, одной из моих дочерей очень нравится пить только этот чай. А остальные, пьём время от времени, для разнообразия)"
+          },
+          {
+            "author": "Максим",
+            "rating": "4",
+            "data": "06.12.2020",
+            "comment": "раньше вкуснее был, может просто приелся."
+          }
+        ],
+        "article": "43345",
+        "characteristic": [
+          [
+            "Тип напитка",
+            "Пакетированный"
+          ],
+          [
+            "Производитель",
+            "Орими Трэйд ООО"
+          ],
+          [
+            "Бренд",
+            "TESS"
+          ],
+          [
+            "Коллекция",
+            "Pleasure"
+          ],
+          [
+            "Вид упаковки",
+            "Картонная упаковка"
+          ],
+          [
+            "Количество штук в упаковке",
+            "100"
+          ],
+          [
+            "Вкус",
+            "Шиповник, Яблоко, Тропические фрукты"
+          ],
+          [
+            "Как приготовить",
+            "Залить чайный пакетик водой температурой 100 градусов, заваривать 2–3 мин."
+          ]
+        ]
+      },
+      {
+        "catalog": "tea-coffee",
+        "id": "62",
+        "name": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Culpa, aliquam!",
+        "price": "69.79",
+        "price_card": "64.89",
+        "img": [
+          "233394_4.png",
+          "407613_1.png"
+        ],
+        "rating": 5,
+        "discount": "",
+        "feedback": [
+          {
+            "author": "Сергей",
+            "rating": "5",
+            "data": "16.09.2021",
+            "comment": "Очень вкусный чай! Раньше любимым был с грейпфрутом в пакетиках, но он пропал. Этот - достойнейшая замена, новый фаворит."
+          }
+        ],
+        "article": "43345",
+        "characteristic": [
+          [
+            "Тип напитка",
+            "Пакетированный"
+          ],
+          [
+            "Производитель",
+            "ООО 'Юнилевер Русь'"
+          ],
+          [
+            "Бренд",
+            "LIPTON"
+          ],
+          [
+            "Вид упаковки",
+            "Картонная упаковка"
+          ],
+          [
+            "Количество штук в упаковке",
+            "20"
+          ],
+          [
+            "Вкус",
+            "Мандарин, Апельсин, Маракуйя"
+          ],
+          [
+            "Как приготовить",
+            "Залить чайный пакетик водой температурой 90 градусов, заваривать 2–3 мин."
+          ]
+        ]
+      }
+    ]
+  },
+  "grocery": {
+    "fillters": [
+      "Макаронные изделия",
+      "Крупы",
+      "Все для выпечки",
+      "Заправки, соусы",
+      "Консервация"
+    ],
+    "cardData": [
+      {
+        "catalog": "grocery",
+        "id": "70",
+        "name": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Culpa, aliquam!",
+        "price": "100.79",
+        "price_card": "95.89",
+        "img": [
+          "355547_2.png"
+        ],
+        "rating": 5,
+        "discount": "",
+        "feedback": [
+          {
+            "author": "Елена",
+            "rating": "5",
+            "data": "21.12.2021",
+            "comment": "замечательная мука"
+          },
+          {
+            "author": "Николай",
+            "rating": "5",
+            "data": "24.11.2022",
+            "comment": "Очень хорошая мука"
+          }
+        ],
+        "article": "43345",
+        "characteristic": [
+          [
+            "Бренд",
+            "СЛАВНА"
+          ],
+          [
+            "Производитель",
+            "ЗАО «Курский комбинат хлебопродуктов» ЗАО «Комбинат хлебопродуктов Старооскольский»"
+          ],
+          [
+            "Вид изделия",
+            "Пшеничный"
+          ],
+          [
+            "Вес",
+            "2 кг"
+          ],
+          [
+            "Пищевая ценность",
+            "1396 кДж (334 ккал)"
+          ]
+        ]
+      },
+      {
+        "catalog": "grocery",
+        "id": "71",
+        "name": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Culpa, aliquam!",
+        "price": "220.79",
+        "price_card": "209.89",
+        "img": [
+          "230967_1.png"
+        ],
+        "rating": 5,
+        "discount": "",
+        "feedback": [
+          {
+            "author": "Андрей",
+            "rating": "5",
+            "data": "21.12.2021",
+            "comment": "Как и все прочие 'оливковые' майонезы в этой ценовой категории - по факту оливкового масла почти нет (пропорции 1:1, 1 рябчик: 1 конь). Но вкус лучше обычных майонезов"
+          },
+          {
+            "author": "Дарья",
+            "rating": "5",
+            "data": "24.11.2022",
+            "comment": "Беру только его .Состав 👌"
+          }
+        ],
+        "article": "43345",
+        "characteristic": [
+          [
+            "Бренд",
+            "СЛОБОДА"
+          ],
+          [
+            "Производитель",
+            "ОАО «ЭФКО»"
+          ],
+          [
+            "Пищевая ценность",
+            "613 кКал"
+          ],
+          [
+            "Вес",
+            "800 мл"
+          ],
+          [
+            "Условия хранения",
+            "При температуре от 0 до +18."
+          ]
+        ]
+      }
+    ]
+  },
+  "meat-poultry-sausage": {
+    "fillters": [
+      "Макаронные изделия",
+      "Крупы",
+      "Все для выпечки",
+      "Заправки, соусы",
+      "Консервация"
+    ],
+    "cardData": [
+      {
+        "catalog": "meat-poultry-sausage",
+        "id": "100",
+        "name": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Culpa, aliquam!",
+        "price": "379.79",
+        "price_card": "360.89",
+        "img": [
+          "424496_1.png"
+        ],
+        "rating": 4.6,
+        "discount": "",
+        "feedback": [
+          {
+            "author": "Альбина",
+            "rating": "2",
+            "data": "21.12.2021",
+            "comment": "В упаковках очень много воды.Пришлось сделать отверстие и просто всё слить.Разница в весе 700 гр.Покупаем воду по цене мяса."
+          },
+          {
+            "author": "Владимир",
+            "rating": "3",
+            "data": "24.11.2022",
+            "comment": "Мясо сильно накачено водой, жарить не возможно"
+          }
+        ],
+        "article": "43345",
+        "characteristic": [
+          [
+            "Условия хранения",
+            "При температуре от 0 до +4 и относительной влажности воздуха 85%."
+          ],
+          [
+            "Производитель",
+            "ОАО «Великолукский мясокомбинат»"
+          ],
+          [
+            "Вид мяса",
+            "Свинина"
+          ],
+          [
+            "Тип разделки/Форма выпуска",
+            "Карбонад"
+          ],
+          [
+            "Калорийность на 100 г",
+            "324 ккал/1357 кДж"
+          ]
+        ]
+      },
+      {
+        "catalog": "meat-poultry-sausage",
+        "id": "101",
+        "name": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Culpa, aliquam!",
+        "price": "284.29",
+        "price_card": "269.19",
+        "img": [
+          "155763.png",
+          "94750.png"
+        ],
+        "rating": 5,
+        "discount": "",
+        "feedback": [],
+        "article": "43345",
+        "characteristic": [
+          [
+            "Бренд",
+            "ЭКОПТИЦА"
+          ],
+          [
+            "Производитель",
+            "СПССПК «Экоптица»"
+          ],
+          [
+            "Калорийность на 100 г",
+            "170Ккал/690кДж"
+          ],
+          [
+            "Вид мяса",
+            "Курятина"
+          ],
+          [
+            "Условия хранения",
+            "При температуре от -2 до +2."
+          ]
+        ]
+      },
+      {
+        "catalog": "meat-poultry-sausage",
+        "id": "102",
+        "name": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Culpa, aliquam!",
+        "price": "473.29",
+        "price_card": "449.19",
+        "img": [
+          "371805.png"
+        ],
+        "rating": 4,
+        "discount": "",
+        "feedback": [
+          {
+            "author": "Максим",
+            "rating": "5",
+            "data": "10.01.2021",
+            "comment": "В наличии товара нет! А в приложении стоит 'много'! Это очень не приятно, что нет достоверной информации!"
+          },
+          {
+            "author": "Галина",
+            "rating": "5",
+            "data": "09.06.2020",
+            "comment": "Беру всегда, когда акция на филе, за товар спасибо большое"
+          }
+        ],
+        "article": "43345",
+        "characteristic": [
+          [
+            "Тип разделки/Форма выпуска",
+            "Кусок"
+          ],
+          [
+            "Производитель",
+            "ООО «ПензаМолИнвест»"
+          ],
+          [
+            "Калорийность на 100 г",
+            "140 кКал/550 кДж"
+          ],
+          [
+            "Вид мяса",
+            "Индюшатина"
+          ],
+          [
+            "Условия хранения",
+            "При температуре от -2 до +2."
+          ]
+        ]
+      },
+      {
+        "catalog": "meat-poultry-sausage",
+        "id": "103",
+        "name": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Culpa, aliquam!",
+        "price": "421.29",
+        "price_card": "399.19",
+        "img": [
+          "317850_8.png"
+        ],
+        "rating": 4,
+        "discount": "",
+        "feedback": [
+          {
+            "author": "Анастасия",
+            "rating": "3",
+            "data": "10.01.2021",
+            "comment": "раз на раз не приходится. иногда качество хорошее, иногда-с душком("
+          },
+          {
+            "author": "Жанна",
+            "rating": "2",
+            "data": "09.06.2020",
+            "comment": "Зареклась покупась здесь весовой куриный фарш. Сегодня приобрела совсем немного по-необходимости. На вид приличный, очевидных тухлых ноток не было, видимо добавили и совсем немного, но в процессе тушения проявились все нотки мяса. Хотя продавец на мой вопрос о свежести сказала что вчерашнего у них не бывает. Больше точно не покупаем."
+          }
+        ],
+        "article": "43345",
+        "characteristic": [
+          [
+            "Тип разделки/Форма выпуска",
+            "Фарш"
+          ],
+          [
+            "Бренд",
+            "ЛЕНТА FRESH"
+          ],
+          [
+            "Калорийность на 100 г",
+            "100ккал/420кДж"
+          ],
+          [
+            "Вид мяса",
+            "Курятина"
+          ],
+          [
+            "Условия хранения",
+            "При температуре от 0 до +4."
+          ]
+        ]
+      },
+      {
+        "catalog": "meat-poultry-sausage",
+        "id": "104",
+        "name": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Culpa, aliquam!",
+        "price": "299.29",
+        "price_card": "289.19",
+        "img": [
+          "229014_1.png"
+        ],
+        "rating": 3.5,
+        "discount": "",
+        "feedback": [
+          {
+            "author": "Светлана",
+            "rating": "5",
+            "data": "10.01.2021",
+            "comment": "Хороший бекон. Не сильно соленый. Можно найти упаковку, в которой больше мяса чем жира"
+          },
+          {
+            "author": "Екатерина",
+            "rating": "3",
+            "data": "23.08.2020",
+            "comment": "Один жир, на самом деле варёно-копчёный, при чем копченый жидким дымом, в итоге при жарке даёт кислый вкус. Просто ерунда. В карбонаре вообще несъедобный, советую воздержаться, даже по акции. Обещания на упаковке не соответствуют действительности."
+          },
+          {
+            "author": "Владимир",
+            "rating": "2",
+            "data": "26.10.2021",
+            "comment": "в карбонару лучше не класть, при жарке запах слишком сильный, жилок много, в бутерброде еле жуется."
+          }
+        ],
+        "article": "43345",
+        "characteristic": [
+          [
+            "Тип разделки/Форма выпуска",
+            "Слайсы"
+          ],
+          [
+            "Бренд",
+            "ВЕЛКОМ"
+          ],
+          [
+            "Производитель",
+            "ООО «Мясокомбинат «Павловская Слобода»"
+          ],
+          [
+            "Калорийность на 100 г",
+            "420 кКал/1758 кДж"
+          ],
+          [
+            "Вид мяса",
+            "Свинина"
+          ],
+          [
+            "Упаковка",
+            "500 "
+          ],
+          [
+            "Условия хранения",
+            "При температуре от +2 до +6."
+          ]
+        ]
+      },
+      {
+        "catalog": "meat-poultry-sausage",
+        "id": "105",
+        "name": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Culpa, aliquam!",
+        "price": "205.29",
+        "price_card": "99.19",
+        "img": [
+          "309547_13.png",
+          "309591_14.png",
+          "322204_7.png"
+        ],
+        "rating": 2.5,
+        "discount": "51",
+        "feedback": [
+          {
+            "author": "Бюджетник",
+            "rating": "3",
+            "data": "04.03.2021",
+            "comment": "Не самый плохой вариант для 'бюджетной колбасы' - в составе, кроме мяса честно указаны соевые гранулы, они честно ощущаются, когда пробуешь её. Чем-то похожа на серию колбас 'Пит-продукт' периода 2006-2014 годов, потом такие же были у 'Черкизово' - особенно когда стали смешивать курицу с сердцами свиными и говяжьими. Единственное что хочу отметить - колбасу если эту возьмете, съедайте сразу. После вскрытия в холодильнике половина колбасы на следующий день покрылась серым налетом и стала очень горькой на вкус, хотя по срокам годности всё было в порядке, пришлось выкинуть её, 75 рублей коту под хвост."
+          },
+          {
+            "author": "Жанна",
+            "rating": "2",
+            "data": "21.01.2021",
+            "comment": "Снаружи кажется настоящей сырокопченой колбасой. Взяли в первый раз на пробу. На вкус это изделие сделано из фарша, причём не сильно трудились над его составом. Не рекомендую. Сама больше не куплю."
+          },
+          {
+            "author": "Людмила",
+            "rating": "1",
+            "data": "27.10.2022",
+            "comment": "Это не колбаса, есть не возможно, вкус соли и консистенция пастообразного фарша с жиром. Животные не едят. Ценник конский, но даже за рубль ее не куплю т.к это не съедобно. Жаль деньги. Такое надо запретить продавать. Дым Дым теперь у меня в черном списке среди производителей."
+          }
+        ],
+        "article": "43345",
+        "characteristic": [
+          [
+            "Тип разделки/Форма выпуска",
+            "Слайсы"
+          ],
+          [
+            "Бренд",
+            "ДЫМ ДЫМЫЧ"
+          ],
+          [
+            "Производитель",
+            "ООО «МК «РОДИНА»"
+          ],
+          [
+            "Калорийность на 100 г",
+            "528 кКал/2210 кДж"
+          ],
+          [
+            "Вид мяса",
+            "Смешанный"
+          ],
+          [
+            "Упаковка",
+            "200 г"
+          ],
+          [
+            "Условия хранения",
+            "При температуре от 0 до +15 и относительной влажности 75–78%."
+          ]
+        ]
+      }
+    ]
+  },
+  "pet-supplies": {
+    "fillters": [
+      "Макаронные изделия",
+      "Крупы",
+      "Все для выпечки",
+      "Заправки, соусы",
+      "Консервация"
+    ],
+    "cardData": [
+      {
+        "catalog": "pet-supplies",
+        "id": "120",
+        "name": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Culpa, aliquam!",
+        "price": "3 052.29",
+        "price_card": "2 599.19",
+        "img": [
+          "221290.png",
+          "417785.png"
+        ],
+        "rating": 4,
+        "discount": "",
+        "feedback": [
+          {
+            "author": "Бюджетник",
+            "rating": "5",
+            "data": "22.01.2022",
+            "comment": "Больше 10-ти лет берём только этот корм.Цена-Качество : 5."
+          },
+          {
+            "author": "Алиса",
+            "rating": "5",
+            "data": "21.01.2021",
+            "comment": "Заслуживает доверия этот бренд и их корм"
+          }
+        ],
+        "article": "43345",
+        "characteristic": [
+          [
+            "Вид корма",
+            "Сухой"
+          ],
+          [
+            "Бренд",
+            "PEDIGREE"
+          ],
+          [
+            "Производитель",
+            "ООО «МАРС»"
+          ],
+          [
+            "Вкус",
+            "Говядина"
+          ],
+          [
+            "Упаковка",
+            "13 кг"
+          ],
+          [
+            "Возраст животного",
+            "Взрослые (от 1 года)"
+          ],
+          [
+            "Рекомендации по кормлению",
+            "Переводя собаку на рацион PEDIGREE, делайте это постепенно (в течение 5–10 дней). День за днем добавляйте все больше PEDIGREE в привычную пищу собаки, пока она полностью не перейдет на новый рацион. PEDIGREE рекомендует сочетать разные форматы корма в рационе взрослых собак всех пород. Это позволит удовлетворить естественные предпочтения питомца и повысить привлекательность питания."
+          ]
+        ]
+      },
+      {
+        "catalog": "pet-supplies",
+        "id": "121",
+        "name": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Culpa, aliquam!",
+        "price": "456.29",
+        "price_card": "433.19",
+        "img": [
+          "222443_6.png",
+          "417819_4.png",
+          "434674_2.png"
+        ],
+        "rating": 4,
+        "discount": "",
+        "feedback": [
+          {
+            "author": "Ярослав",
+            "rating": "5",
+            "data": "22.01.2022",
+            "comment": "коты накидываются на него, не оторвать. кот запрыгивает на холодильник и ест по ночам от туда."
+          }
+        ],
+        "article": "43345",
+        "characteristic": [
+          [
+            "Вид корма",
+            "Сухой"
+          ],
+          [
+            "Бренд",
+            "KITEKAT"
+          ],
+          [
+            "Производитель",
+            "ООО «МАРС»"
+          ],
+          [
+            "Вкус",
+            "Мясо"
+          ],
+          [
+            "Упаковка",
+            "1,9 кг"
+          ],
+          [
+            "Возраст животного",
+            "Взрослые (от 1 года)"
+          ],
+          [
+            "Рекомендации по кормлению",
+            "Насыпьте в миску сразу всю дневную норму, поскольку кошка сама знает, когда и сколько ей есть. Как правило, кошки едят 2–3 раза в день, а беременные и кормящие – 3–4 раза. Рядом с едой всегда должна стоять миска с чистой водой. Следите за тем, чтобы еда всегда была свежей и не залеживалась в миске по несколько дней. Рекомендуемая дневная норма потребления: кошки 2кг – 39г, кошки 3кг – 52г, кошки 4кг – 63г, кошки 5кг – 74г."
+          ]
+        ]
+      },
+      {
+        "catalog": "pet-supplies",
+        "id": "122",
+        "name": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Culpa, aliquam!",
+        "price": "705.29",
+        "price_card": "569.19",
+        "img": [
+          "411795_1.png",
+          "221452_1.png",
+          "417786.png"
+        ],
+        "rating": 4.6,
+        "discount": "",
+        "feedback": [
+          {
+            "author": "Ярослав",
+            "rating": "5",
+            "data": "22.01.2022",
+            "comment": "коты накидываются на него, не оторвать. кот запрыгивает на холодильник и ест по ночам от туда."
+          }
+        ],
+        "article": "43345",
+        "characteristic": [
+          [
+            "Вид корма",
+            "Сухой"
+          ],
+          [
+            "Бренд",
+            "WHISKAS"
+          ],
+          [
+            "Производитель",
+            "ООО «МАРС»"
+          ],
+          [
+            "Вкус",
+            "Курица"
+          ],
+          [
+            "Упаковка",
+            "1,9 кг"
+          ],
+          [
+            "Возраст животного",
+            "Взрослые (от 1 года)"
+          ],
+          [
+            "Рекомендации по кормлению",
+            "WHISKAS рекомендует сочетать разные форматы корма в рационе кошки. Утром и вечером котенку нужно давать влажный рацион, а в течение дня – сухой. Смешивать в одной миске сухой и влажный рационы не рекомендуется. У питомца всегда должен быть доступ к чистой питьевой воде."
+          ]
+        ]
+      },
+      {
+        "catalog": "pet-supplies",
+        "id": "123",
+        "name": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Culpa, aliquam!",
+        "price": "29.29",
+        "price_card": "19.19",
+        "img": [
+          "440689_2.png",
+          "461272_1.png"
+        ],
+        "rating": 5,
+        "discount": "",
+        "feedback": [
+          {
+            "author": "Ярослав",
+            "rating": "5",
+            "data": "22.01.2022",
+            "comment": "коты накидываются на него, не оторвать. кот запрыгивает на холодильник и ест по ночам от туда."
+          }
+        ],
+        "article": "43345",
+        "characteristic": [
+          [
+            "Вид корма",
+            "Влажный"
+          ],
+          [
+            "Бренд",
+            "FELIX"
+          ],
+          [
+            "Производитель",
+            "ООО «Нестле Россия»"
+          ],
+          [
+            "Вкус",
+            "Утка, Морковь"
+          ],
+          [
+            "Упаковка",
+            "75 г"
+          ],
+          [
+            "Возраст животного",
+            "Взрослые (от 1 года)"
+          ],
+          [
+            "Рекомендации по кормлению",
+            "Для взрослой кошки среднего веса (4кг) требуется 4 пакетика в день. Кормление желательно разделить минимум на два приема. Данные значения рассчитаны для кошек с умеренной активностью при нормальной температуре окружающей среды. Индивидуальные потребности кошки могут варьироваться, и ежедневное количество корма должно быть скорректировано по мере необходимости для поддержания оптимального веса кошки. Подавайте корм комнатной температуры. Следите, чтобы у кошки всегда была чистая свежая питьевая вода."
+          ]
+        ]
+      }
+    ]
+  }
+}
